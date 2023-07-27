@@ -1,0 +1,59 @@
+.Nav{
+  display: flex;
+}
+.Nav ul{
+  display: flex;list-style: none;
+  margin-left:70%;
+}
+.Nav li {
+  /* margin: 20px; */
+  margin-left: 10px ;
+  font-weight: 500;
+}
+.Nav img{
+  margin-left: 10px;
+}
+.btnsame{
+  text-align: center;
+  background-color: black;
+  padding: 10px;
+  color: white;
+  font-weight: 400;
+  margin-left: 5px;
+}
+
+.formfield{
+  width: 400px;
+  /* padding: 50px; */
+}
+.formMain{
+  padding: 50px;
+  line-height: 60px;
+}
+.emailBtn{
+  width: 25%;
+  text-align: center;
+  margin: 20px;
+}
+
+.emailBtn button{
+  background-color: transparent;
+  color: black;
+  width: 300px;
+}
+.flex{
+  display: flex;
+  justify-content: space-between;
+}
+.flex2{
+  padding: 50px;
+  width: 80vw;
+}
+h1{
+  font-size: 32px;
+  /* color: blueviolet; */
+  font-weight: 900;
+}
+p{
+  font-weight: 400;
+}
